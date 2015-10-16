@@ -2,3 +2,6 @@ Nome: Rangel
 Endereço: Rod SC 443 km6 Demboski, Içara
 Profissão: Teste de software
 Empresa: DEPS Tecnologia
+CEP: 88820-970
+Bairro: Demboski
+Municipio: Içara
